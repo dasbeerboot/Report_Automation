@@ -14,7 +14,7 @@ pip install selenium
 ~~~
 3. To run this app, type 
 ~~~
-pythonn run.py
+python run.py
 ~~~
 
 4. If one above doesn't work, try
